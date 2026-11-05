@@ -1,3 +1,5 @@
+<sub>🇫🇷 Français · 🇬🇧 [English version](README.en.md)</sub>
+
 # Salut, moi c'est Henri 👋
 
 Étudiant en **Techniques de l'informatique** au Cégep Saint-Jean-sur-Richelieu, au Québec.
@@ -20,7 +22,7 @@ Disponible sur ordinateur et sur mobile, développée par une équipe de sept pe
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-🌐 **[rmble.ca](https://rmble.ca)** · 💻 **[GitHub](https://github.com/Ramble-cstjean)**
+🌐 **[rmble.ca](https://rmble.ca)** · 💻 **[Code source sur GitHub](https://github.com/Ramble-cstjean)**
 
 ---
 
