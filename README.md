@@ -1,7 +1,7 @@
 # Salut, moi c'est Henri 👋
 
 Étudiant en **Techniques de l'informatique** au Cégep Saint-Jean-sur-Richelieu, au Québec.
-J'aime autant le développement web que bidouiller des microcontrôleurs.
+J'aime autant le développement web, la création de jeux vidéo que bidouiller des microcontrôleurs.
 
 🔎 **Je cherche un stage en informatique.** Si vous avez un projet concret et une équipe où apprendre, écrivez-moi !
 
