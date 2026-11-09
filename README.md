@@ -43,6 +43,8 @@ Jeu 2D où l'on contrôle une créature qui saute de corps en corps pour infecte
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 
+🎬 **[Voir la vidéo du jeu](https://youtu.be/XzjcASuOudg)**
+
 **🧟 Chaos in Karos** · *Projet scolaire, équipe de cinq*
 
 Jeu de tir 3D à la première personne : après une pandémie qui transforme les habitants en zombies, James quitte son bunker et traverse la forêt pour rejoindre le point d'évacuation de l'armée. Deux armes, des munitions et des trousses de soins à ramasser, et des zombies qui patrouillent, poursuivent et attaquent.
