@@ -43,6 +43,8 @@ A 2D game where you control a creature that leaps from body to body to infect th
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 
+🎬 **[Watch the game video](https://youtu.be/XzjcASuOudg)**
+
 **🧟 Chaos in Karos** · *School project, team of five*
 
 A 3D first-person shooter: after a pandemic turns the population into zombies, James leaves his bunker and crosses the forest to reach the army's evacuation point. Two weapons, ammo and med kits to pick up, and zombies that patrol, chase and attack.
